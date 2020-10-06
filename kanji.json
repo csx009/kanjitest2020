@@ -27,6 +27,20 @@
       "image": "img/seven.png",
       "number": 2,
       "prompt": "What kanji is this?"
+    },
+    {
+      "answers": [
+        "Like",
+        "Child",
+        "Old",
+        "Woman"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/child.png",
+      "number": 3,
+      "prompt": "What kanji is this?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
