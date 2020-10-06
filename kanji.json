@@ -162,10 +162,38 @@
         "ダン"
       ],
       "correct": {
-        "index":0
+        "index": 0
       },
       "image": "img/below.png",
       "number": 12,
+      "prompt": "What is the onyomi?"
+    },
+    {
+      "answers": [
+        "ジョ",
+        "カン",
+        "おんな",
+        "ガツ"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "img/rape.png",
+      "number": 13,
+      "prompt": "What is the onyomi?"
+    },
+    {
+      "answers": [
+        "ダン",
+        "カン",
+        "ゲン",
+        "ゲツ"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/say.png",
+      "number":14,
       "prompt": "What is the onyomi?"
     }
   ],
