@@ -139,6 +139,20 @@
       "image": "img/revise.png",
       "number": 10,
       "prompt": "What is the onyomi?"
+    },
+    {
+      "answers": [
+        "Daring",
+        "Sun",
+        "Moon",
+        "Husband"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/husband.png",
+      "number": 11,
+      "prompt": "What is this kanji?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
