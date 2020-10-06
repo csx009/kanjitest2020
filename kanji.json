@@ -117,12 +117,12 @@
         "みずうみ",
         "うま*い",
         "ふた*つ",
-        "つき"
+        "みず"
       ],
       "correct": {
         "index": 3
       },
-      "image": "img/moon.png",
+      "image": "img/water.png",
       "number": 9,
       "prompt": "What is the kunyomi?"
     }
