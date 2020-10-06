@@ -193,8 +193,22 @@
         "index": 2
       },
       "image": "img/say.png",
-      "number":14,
+      "number": 14,
       "prompt": "What is the onyomi?"
+    },
+    {
+      "answers": [
+        "いずみ",
+        "した",
+        "なな",
+        "みずうみ"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/old.png",
+      "number": 15,
+      "prompt": "What is the kunyomi of a kanji old（古）is a part of?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
