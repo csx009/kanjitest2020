@@ -69,6 +69,20 @@
       "image": "img/insect.png",
       "number": 5,
       "prompt": "What kanji is this?"
+    },
+    {
+      "answers": [
+        "Water",
+        "Forever",
+        "Swim",
+        "Ice"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/Ice.png",
+      "number": 6,
+      "prompt": "What kanji is this?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
