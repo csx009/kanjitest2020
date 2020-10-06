@@ -8,7 +8,8 @@
         "うま*い"
       ],
       "correct": {
-        "index": 1
+        "index": 1,
+        "text":  "朝, on:チョウ, kun:あさ, morning"
       },
       "image": "img/morning.png",
       "number": 1,
