@@ -44,17 +44,17 @@
     },
     {
       "answers": [
-        "Rape",
-        "Total",
-        "Woman",
-        "Like"
+        "ヒョウ",
+        "ジョ",
+        "ジュウ",
+        "チョウ"
       ],
       "correct": {
-        "index": 2
+        "index": 1
       },
       "image": "img/woman.png",
       "number": 4,
-      "prompt": "What kanji is this?"
+      "prompt": "What is the onyomi?"
     },
     {
       "answers": [
