@@ -55,6 +55,20 @@
       "image": "img/woman.png",
       "number": 4,
       "prompt": "What kanji is this?"
+    },
+    {
+      "answers": [
+        "Mix",
+        "Insect",
+        "Swim",
+        "Forever"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "img/insect.png",
+      "number": 5,
+      "prompt": "What kanji is this?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
