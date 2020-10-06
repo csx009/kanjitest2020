@@ -204,7 +204,8 @@
         "みずうみ"
       ],
       "correct": {
-        "index": 3
+        "index": 3,
+        "text": "Old (古) is a part of 湖 (big lake)."
       },
       "image": "img/old.png",
       "number": 15,
