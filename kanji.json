@@ -41,6 +41,20 @@
       "image": "img/child.png",
       "number": 3,
       "prompt": "What kanji is this?"
+    },
+    {
+      "answers": [
+        "Rape",
+        "Total",
+        "Woman",
+        "Like"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/woman.png",
+      "number": 4,
+      "prompt": "What kanji is this?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
