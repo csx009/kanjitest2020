@@ -153,6 +153,20 @@
       "image": "img/husband.png",
       "number": 11,
       "prompt": "What is this kanji?"
+    },
+    {
+      "answers": [
+        "カ",
+        "コ",
+        "シ",
+        "ダン"
+      ],
+      "correct": {
+        "index":0
+      },
+      "image": "img/below.png",
+      "number": 12,
+      "prompt": "What is the onyomi?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
