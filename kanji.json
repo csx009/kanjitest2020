@@ -83,6 +83,20 @@
       "image": "img/ice.png",
       "number": 6,
       "prompt": "What kanji is this?"
+    },
+    {
+      "answers": [
+        "Moon",
+        "Husband",
+        "Sun",
+        "Bright"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/bright.png",
+      "number": 7,
+      "prompt": "What kanji is this?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
