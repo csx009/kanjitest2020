@@ -125,6 +125,20 @@
       "image": "img/water.png",
       "number": 9,
       "prompt": "What is the kunyomi?"
+    },
+    {
+      "answers": [
+        "テイ",
+        "コウ",
+        "トウ",
+        "タン"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "img/revise.png",
+      "number": 10,
+      "prompt": "What is the onyomi?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
