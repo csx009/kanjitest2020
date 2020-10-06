@@ -97,6 +97,20 @@
       "image": "img/bright.png",
       "number": 7,
       "prompt": "What kanji is this?"
+    },
+    {
+      "answers": [
+        "Husband",
+        "Daring",
+        "Former",
+        "Sun"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/former.png",
+      "number": 8,
+      "prompt": "What kanji is this?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
