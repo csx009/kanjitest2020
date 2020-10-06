@@ -2,17 +2,17 @@
   "questions": [
     {
       "answers": [
-        "Moon",
-        "Morning",
-        "Animal Fat",
-        "Gist"
+        "つき",
+        "あさ",
+        "あぶら",
+        "うま*い"
       ],
       "correct": {
         "index": 1
       },
       "image": "img/morning.png",
       "number": 1,
-      "prompt": "What kanji is this?"
+      "prompt": "What is the onyomi?"
     },
     {
       "answers": [
@@ -111,6 +111,20 @@
       "image": "img/former.png",
       "number": 8,
       "prompt": "What kanji is this?"
+    },
+    {
+      "answers": [
+        "みずうみ",
+        "うま*い",
+        "ふた*つ",
+        "つき"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/moon.png",
+      "number": 9,
+      "prompt": "What is the kunyomi?"
     }
   ],
   "title": "Kanji Quiz 10-6-2020",
