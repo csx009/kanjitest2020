@@ -2,229 +2,125 @@
   "questions": [
     {
       "answers": [
-        "つき",
-        "あさ",
-        "あぶら",
-        "うま*い"
+        "Gallbladder",
+        "Stomach",
+        "Heart",
+        "Moon"
       ],
       "correct": {
         "index": 1,
-        "text":  "The kunyomi of 朝 (morning) is あさ. The onyomi is チョウ."
+        "text": "胃 means stomach. The onyomi is イ."
       },
-      "image": "img/morning.png",
+      "image": "img/stomach.png",
       "number": 1,
+      "prompt": "What does this kanji mean?"
+    },
+    {
+      "answers": [
+        "Revise",
+        "Counter for pages",
+        "Streetlight",
+        "Neighborhood/Town"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "町 means neighborhood/town. The onyomi is チョウ, and the kunyomi is まち."
+      },
+      "image": "img/town.png",
+      "number": 2,
+      "prompt": "What does this kanji mean?"
+    },
+    {
+      "answers": [
+        "Cultivated field",
+        "Rice field",
+        "Town",
+        "Faint"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "畑 means cultivated field. The kunyomi is はたけ."
+      },
+      "image": "img/cultivatedfield.png",
+      "number": 3,
+      "prompt": "What does this kanji mean?"
+    },
+    {
+      "answers": [
+        "Cultivated field",
+        "Possible",
+        "Rice field",
+        "Stream"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "田 means rice field. The kunyomi is た, and the onyomi is デン."
+      },
+      "image": "img/ricefield.png",
+      "number": 4,
+      "prompt": "What does this kanji mean?"
+    },
+    {
+      "answers": [
+        "こ",
+        "あぶら",
+        "した",
+        "まち"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "The kunyomi of 町 is まち. The onyomi is チョウ."
+      },
+      "image": "img/town.png",
+      "number": 5,
       "prompt": "What is the kunyomi?"
     },
     {
       "answers": [
-        "Big lake",
-        "Compare",
-        "Insect",
-        "Seven"
-      ],
-      "correct": {
-        "index": 3,
-        "text":  "七 means seven. on:シチ kun:なな"
-      },
-      "image": "img/seven.png",
-      "number": 2,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "Like",
-        "Child",
-        "Old",
-        "Woman"
-      ],
-      "correct": {
-        "index": 1,
-        "text":  "子 means child. on:シ kun: こ"
-      },
-      "image": "img/child.png",
-      "number": 3,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "ヒョウ",
-        "ジョ",
-        "ジュウ",
-        "チョウ"
-      ],
-      "correct": {
-        "index": 1,
-        "text":  "The onyomi of 女 (woman) is ジョ. The kunyomi is おんな."
-      },
-      "image": "img/woman.png",
-      "number": 4,
-      "prompt": "What is the onyomi?"
-    },
-    {
-      "answers": [
-        "Mix",
-        "Insect",
-        "Swim",
-        "Forever"
-      ],
-      "correct": {
-        "index": 1,
-        "text": "昆 means insect. on: コン"
-      },
-      "image": "img/insect.png",
-      "number": 5,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "Water",
-        "Forever",
-        "Swim",
-        "Ice"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "氷 means ice. on: ヒョウ kun: こおり"
-      },
-      "image": "img/ice.png",
-      "number": 6,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "Moon",
-        "Husband",
-        "Sun",
-        "Bright"
-      ],
-      "correct": {
-        "index": 3,
-        "text":  "明 means bright. on:メイ kun:あ*かり・あか*るい"
-      },
-      "image": "img/bright.png",
-      "number": 7,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "Husband",
-        "Daring",
-        "Former",
-        "Sun"
+        "",
+        "",
+        "",
+        ""
       ],
       "correct": {
         "index": 2,
-        "text": "旧 means former. on:キュウ" 
+        "text": "The onyomi of 胃 (stomach) is イ."
       },
-      "image": "img/former.png",
-      "number": 8,
-      "prompt": "What kanji is this?"
+      "image": "img/stomach.png",
+      "number": 6,
+      "prompt": "What is the onyomi of 胃 (stomach)?"
     },
     {
       "answers": [
         "みずうみ",
-        "うま*い",
-        "ふた*つ",
-        "みず"
+        "すいか",
+        "あぶら",
+        "はたけ"
       ],
       "correct": {
         "index": 3,
-        "text": "みず is the kunyomi of 水 (water). The onyomi is スイ."
+        "text": "はたけ is the kunyomi of 畑 (cultivated field)."
       },
-      "image": "img/water.png",
-      "number": 9,
-      "prompt": "What is the kunyomi?"
+      "image": "img/cultivatedfield.png",
+      "number": 7,
+      "prompt": "What is the kunyomi of 畑 (Cultivated field)?"
     },
     {
       "answers": [
-        "テイ",
-        "コウ",
-        "トウ",
-        "タン"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "テイ is the onyomi of 訂 (revise)."
-      },
-      "image": "img/revise.png",
-      "number": 10,
-      "prompt": "What is the onyomi?"
-    },
-    {
-      "answers": [
-        "Daring",
-        "Sun",
-        "Moon",
-        "Husband"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "旦 means husband. on:タン kun:だんな"
-      },
-      "image": "img/husband.png",
-      "number": 11,
-      "prompt": "What is this kanji?"
-    },
-    {
-      "answers": [
-        "カ",
-        "コ",
-        "シ",
-        "ダン"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "カ is the onyomi of 下 (below). The kunyomi is した."
-      },
-      "image": "img/below.png",
-      "number": 12,
-      "prompt": "What is the onyomi?"
-    },
-    {
-      "answers": [
-        "コウ",
-        "ソウ",
-        "ク",
-        "メイ"
-      ],
-      "correct": {
-        "index": 1,
-        "text": "ソウ is the onyomi of 早 (early). The kunyomi is はや*い."
-      },
-      "image": "img/early.png",
-      "number": 13,
-      "prompt": "What is the onyomi?"
-    },
-    {
-      "answers": [
-        "ダン",
-        "カン",
-        "ゲン",
-        "ゲツ"
+        "した",
+        "だんな",
+        "た",
+        "こ"
       ],
       "correct": {
         "index": 2,
-        "text": "ゲン is the onyomi of 言 (say). The kunyomi is い*う."
+        "text": "た is the onyomi of 田 (rice field). The kunyomi is デン."
       },
-      "image": "img/say.png",
-      "number": 14,
-      "prompt": "What is the onyomi?"
-    },
-    {
-      "answers": [
-        "いずみ",
-        "した",
-        "なな",
-        "みずうみ"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "Old (古) is a part of 湖 (big lake)."
-      },
-      "image": "img/old.png",
-      "number": 15,
-      "prompt": "What is the kunyomi of a kanji old（古）is a part of?"
+      "image": "img/ricefield.png",
+      "number": 8,
+      "prompt": "What is the onyomi of 田 (rice field)?"
     }
+
   ],
   "title": "Kanji Quiz 10-6-2020",
   "url": "http://google.com"
