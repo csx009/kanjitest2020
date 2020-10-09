@@ -20,13 +20,27 @@ $.fn.quiz = function(filename) {
   }
 };
 
+//Shuffle
+//https://stackoverflow.com/questions/3718282/javascript-shuffling-objects-inside-an-object-randomize
+function shuffle(sourceArray) {
+    for (var i = 0; i < sourceArray.length - 1; i++) {
+        var j = i + Math.floor(Math.random() * (sourceArray.length - i));
+
+        var temp = sourceArray[j];
+        sourceArray[j] = sourceArray[i];
+        sourceArray[i] = temp;
+    }
+    return sourceArray;
+}
+
 // create html structure for quiz
 // using loaded questions json
 function render(quiz_opts) {
 
 
   // list of questions to insert into quiz
-  var questions = quiz_opts.questions;
+  //var questions = quiz_opts.questions;
+    var questions = shuffle(quiz_opts.questions);
 
   // keep track of the state of correct
   // answers to the quiz so far
