@@ -9,7 +9,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "入 is put/go in. The onyomi is ニュウ, and the kunyomi are はい*る and い*れる."
+        "text": "入 means put/go in. The onyomi is ニュウ, and the kunyomi are はい*る and い*れる."
       },
       "image": "img/put.png",
       "number": 1,
@@ -114,11 +114,11 @@
       ],
       "correct": {
         "index": 2,
-        "text": ""
+        "text": "ニュウ is the onyomi of 入 (put/go in). The kunyomi is はい*る and い*れる."
       },
       "image": "img/put.png",
       "number": 8,
-      "prompt": "What is the onyomi of the above kanji?"
+      "prompt": "What is the onyomi of the above kanji? (Put/go in)"
     },
     {
       "answers": [
@@ -129,11 +129,11 @@
       ],
       "correct": {
         "index": 3,
-        "text": "ニン and ジン are the onyomi for 人. The kunyomi is ひと."
+        "text": "ニン and ジン are the onyomi for 人 (person). The kunyomi is ひと."
       },
       "image": "img/person.png",
       "number": 9,
-      "prompt": "What is the onyomi of the above kanji?"
+      "prompt": "What is the onyomi of the above kanji? (Person)"
     },
     {
       "answers": [
@@ -144,11 +144,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "カ is the onyomi of 何. The kunyomi is なに."
+        "text": "カ is the onyomi of 何 (what). The kunyomi is なに."
       },
       "image": "img/what.png",
       "number": 10,
-      "prompt": "What is the onyomi of the above kanji?"
+      "prompt": "What is the onyomi of the above kanji? (What)"
     },
     {
       "answers": [
@@ -159,11 +159,11 @@
       ],
       "correct": {
         "index": 3,
-        "text": "シン is the onyomi of 信. The kunyomi is しん*じる."
+        "text": "シン is the onyomi of 信 (believe). The kunyomi is しん*じる."
       },
       "image": "img/believe.png",
       "number": 11,
-      "prompt": "What is the onyomi of the above kanji?"
+      "prompt": "What is the onyomi of the above kanji? (Believe)"
     },
     {
       "answers": [
@@ -174,11 +174,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "カ is the onyomi of 化. The kunyomi is ば*ける."
+        "text": "カ is the onyomi of 化 (transform). The kunyomi is ば*ける."
       },
       "image": "img/transform.png",
       "number": 12,
-      "prompt": "What is the onyomi of the above kanji?"
+      "prompt": "What is the onyomi of the above kanji? (Transform)"
     },
     {
       "answers": [
@@ -189,11 +189,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "カ is the onyomi of flower. The kunyomi is はな."
+        "text": "カ is the onyomi of 花 (flower). The kunyomi is はな."
       },
       "image": "img/flower.png",
       "number": 13,
-      "prompt": "What is the onyomi of the above kanji?"
+      "prompt": "What is the onyomi of the above kanji? (Flower)"
     },
     {
       "answers": [
@@ -204,11 +204,11 @@
       ],
       "correct": {
         "index": 2,
-        "text": "ク is the onyomi of 苦. The kunyomi is にが*い and くる*しい."
+        "text": "ク is the onyomi of 苦 (suffer). The kunyomi is にが*い and くる*しい."
       },
       "image": "img/suffer.png",
       "number": 14,
-      "prompt": "What is the onyomi of the above kanji?"
+      "prompt": "What is the onyomi of the above kanji? (Suffer)"
     },
     {
       "answers": [
@@ -219,11 +219,11 @@
       ],
       "correct": {
         "index": 2,
-        "text": "い*れる is the kunyomi of 入. The onyomi is ニュウ."
+        "text": "い*れる is the kunyomi of 入 (put/go in). The onyomi is ニュウ."
       },
       "image": "img/put.png",
       "number": 15,
-      "prompt": "What is the kunyomi of the above kanji?"
+      "prompt": "What is the kunyomi of the above kanji? (Put/go in)"
     },
     {
       "answers": [
@@ -234,11 +234,11 @@
       ],
       "correct": {
         "index": 3,
-        "text": "ひと is the kunyomi of 人. The onyomi is ニン and ジン."
+        "text": "ひと is the kunyomi of 人 (person). The onyomi is ニン and ジン."
       },
       "image": "img/person.png",
       "number": 16,
-      "prompt": "What is the kunyomi of the above kanji?"
+      "prompt": "What is the kunyomi of the above kanji? (Person)"
     },
     {
       "answers": [
@@ -249,11 +249,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "なに is the kunyomi of 何. The onyomi is カ."
+        "text": "なに is the kunyomi of 何 (what). The onyomi is カ."
       },
       "image": "img/what.png",
       "number": 17,
-      "prompt": "What is the kunyomi of the above kanji?"
+      "prompt": "What is the kunyomi of the above kanji? (What)"
     },
     {
       "answers": [
@@ -264,11 +264,11 @@
       ],
       "correct": {
         "index": 3,
-        "text": "しん*じる is the kunyomi of 信. The onyomi is シン."
+        "text": "しん*じる is the kunyomi of 信 (believe). The onyomi is シン."
       },
       "image": "img/believe.png",
       "number": 18,
-      "prompt": "What is the kunyomi of the above kanji?"
+      "prompt": "What is the kunyomi of the above kanji? (Believe)"
     },
     {
       "answers": [
@@ -279,11 +279,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "ば*ける is the kunyomi of 化. The onyomi is カ."
+        "text": "ば*ける is the kunyomi of 化 (transform). The onyomi is カ."
       },
       "image": "img/transform.png",
       "number": 19,
-      "prompt": "What is the kunyomi of the above kanji?"
+      "prompt": "What is the kunyomi of the above kanji? (Transform)"
     },
     {
       "answers": [
@@ -294,11 +294,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "はな is the kunyomi of 花. The onyomi is カ."
+        "text": "はな is the kunyomi of 花 (flower). The onyomi is カ."
       },
       "image": "img/flower.png",
       "number": 20,
-      "prompt": "What is the kunyomi of the above kanji?"
+      "prompt": "What is the kunyomi of the above kanji? (Flower)"
     },
     {
       "answers": [
@@ -309,11 +309,11 @@
       ],
       "correct": {
         "index": 2,
-        "text": "にが*い and くる*しい are the kunyomi of 苦. The onyomi is ク."
+        "text": "にが*い and くる*しい are the kunyomi of 苦 (suffer). The onyomi is ク."
       },
       "image": "img/suffer.png",
       "number": 21,
-      "prompt": "What is the kunyomi of the above kanji?"
+      "prompt": "What is the kunyomi of the above kanji? (Suffer)"
     }
   ],
   "title": "Kanji Quiz 10-9-2020",
