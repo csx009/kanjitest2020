@@ -1,231 +1,321 @@
-{
+﻿{
   "questions": [
     {
       "answers": [
-        "つき",
-        "あさ",
-        "あぶら",
-        "うま*い"
-      ],
-      "correct": {
-        "index": 1,
-        "text":  "The kunyomi of 朝 (morning) is あさ. The onyomi is チョウ."
-      },
-      "image": "img/morning.png",
-      "number": 1,
-      "prompt": "What is the kunyomi?"
-    },
-    {
-      "answers": [
-        "Big lake",
-        "Compare",
-        "Insect",
-        "Seven"
-      ],
-      "correct": {
-        "index": 3,
-        "text":  "七 means seven. on:シチ kun:なな"
-      },
-      "image": "img/seven.png",
-      "number": 2,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "Like",
-        "Child",
-        "Old",
-        "Woman"
-      ],
-      "correct": {
-        "index": 1,
-        "text":  "子 means child. on:シ kun: こ"
-      },
-      "image": "img/child.png",
-      "number": 3,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "ヒョウ",
-        "ジョ",
-        "ジュウ",
-        "チョウ"
-      ],
-      "correct": {
-        "index": 1,
-        "text":  "The onyomi of 女 (woman) is ジョ. The kunyomi is おんな."
-      },
-      "image": "img/woman.png",
-      "number": 4,
-      "prompt": "What is the onyomi?"
-    },
-    {
-      "answers": [
-        "Mix",
-        "Insect",
-        "Swim",
-        "Forever"
-      ],
-      "correct": {
-        "index": 1,
-        "text": "昆 means insect. on: コン"
-      },
-      "image": "img/insect.png",
-      "number": 5,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "Water",
-        "Forever",
-        "Swim",
-        "Ice"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "氷 means ice. on: ヒョウ kun: こおり"
-      },
-      "image": "img/ice.png",
-      "number": 6,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "Moon",
-        "Husband",
-        "Sun",
-        "Bright"
-      ],
-      "correct": {
-        "index": 3,
-        "text":  "明 means bright. on:メイ kun:あ*かり・あか*るい"
-      },
-      "image": "img/bright.png",
-      "number": 7,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "Husband",
-        "Daring",
-        "Former",
-        "Sun"
+        "Possible",
+        "Flower",
+        "Put/Go in",
+        "Person"
       ],
       "correct": {
         "index": 2,
-        "text": "旧 means former. on:キュウ" 
+        "text": "入 is put/go in. The onyomi is ニュウ, and the kunyomi are はい*る and い*れる."
       },
-      "image": "img/former.png",
-      "number": 8,
-      "prompt": "What kanji is this?"
-    },
-    {
-      "answers": [
-        "みずうみ",
-        "うま*い",
-        "ふた*つ",
-        "みず"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "みず is the kunyomi of 水 (water). The onyomi is スイ."
-      },
-      "image": "img/water.png",
-      "number": 9,
-      "prompt": "What is the kunyomi?"
-    },
-    {
-      "answers": [
-        "テイ",
-        "コウ",
-        "トウ",
-        "タン"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "テイ is the onyomi of 訂 (revise)."
-      },
-      "image": "img/revise.png",
-      "number": 10,
-      "prompt": "What is the onyomi?"
-    },
-    {
-      "answers": [
-        "Daring",
-        "Sun",
-        "Moon",
-        "Husband"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "旦 means husband. on:タン kun:だんな"
-      },
-      "image": "img/husband.png",
-      "number": 11,
+      "image": "img/put.png",
+      "number": 1,
       "prompt": "What is this kanji?"
     },
     {
       "answers": [
-        "カ",
-        "コ",
-        "シ",
-        "ダン"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "カ is the onyomi of 下 (below). The kunyomi is した."
-      },
-      "image": "img/below.png",
-      "number": 12,
-      "prompt": "What is the onyomi?"
-    },
-    {
-      "answers": [
-        "コウ",
-        "ソウ",
-        "ク",
-        "メイ"
-      ],
-      "correct": {
-        "index": 1,
-        "text": "ソウ is the onyomi of 早 (early). The kunyomi is はや*い."
-      },
-      "image": "img/early.png",
-      "number": 13,
-      "prompt": "What is the onyomi?"
-    },
-    {
-      "answers": [
-        "ダン",
-        "カン",
-        "ゲン",
-        "ゲツ"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "ゲン is the onyomi of 言 (say). The kunyomi is い*う."
-      },
-      "image": "img/say.png",
-      "number": 14,
-      "prompt": "What is the onyomi?"
-    },
-    {
-      "answers": [
-        "いずみ",
-        "した",
-        "なな",
-        "みずうみ"
+        "Fire",
+        "Moon",
+        "Put/go in",
+        "Person"
       ],
       "correct": {
         "index": 3,
-        "text": "Old (古) is a part of 湖 (big lake)."
+        "text": "人 means person. The onyomi is ニン and ジン. The kunyomi is　ひと. "
       },
-      "image": "img/old.png",
+      "image": "img/person.png",
+      "number": 2,
+      "prompt": "What is this kanji?"
+    },
+    {
+      "answers": [
+        "Stream",
+        "What",
+        "Possible",
+        "Faint/pale"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "何 means what. The onyomi is カ. The kunyomi is なに."
+      },
+      "image": "img/what.png",
+      "number": 3,
+      "prompt": "What is this kanji?"
+    },
+    {
+      "answers": [
+        "Believe",
+        "Say",
+        "What",
+        "Cultivated field"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "信 means believe. The onyomi is シン. The kunyomi is しん*じる."
+      },
+      "image": "img/believe",
+      "number": 4,
+      "prompt": "What is this kanji?"
+    },
+    {
+      "answers": [
+        "Seven",
+        "Transform",
+        "Counter for pages",
+        "Person"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "化 means transform. The onyomi is カ. The kunyomi is ば*ける."
+      },
+      "image": "img/transform.png",
+      "number": 5,
+      "prompt": "What is this kanji?"
+    },
+    {
+      "answers": [
+        "Suffer",
+        "Early",
+        "Stomach",
+        "Flower"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "花 means flower. The onyomi is カ. The kunyomi is はな."
+      },
+      "image": "img/flower.png",
+      "number": 6,
+      "prompt": "What is this kanji?"
+    },
+    {
+      "answers": [
+        "Sun",
+        "Flower",
+        "Moon",
+        "Suffer"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "苦 means suffer. The onyomi is ク. The kunyomi is にが*い and くる*しい."
+      },
+      "image": "img/suffer.png",
+      "number": 7,
+      "prompt": "What is this kanji?"
+    },
+    {
+      "answers": [
+        "シ",
+        "ク",
+        "ニュウ",
+        "シン"
+      ],
+      "correct": {
+        "index": 2,
+        "text": ""
+      },
+      "image": "img/put.png",
+      "number": 8,
+      "prompt": "What is the onyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "カ/ゲ",
+        "ニチ/ジツ",
+        "ヒョウ/スイ",
+        "ニン/ジン"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "ニン and ジン are the onyomi for 人. The kunyomi is ひと."
+      },
+      "image": "img/person.png",
+      "number": 9,
+      "prompt": "What is the onyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "カ",
+        "ヒ",
+        "コ",
+        "ク"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "カ is the onyomi of 何. The kunyomi is なに."
+      },
+      "image": "img/what.png",
+      "number": 10,
+      "prompt": "What is the onyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "コン",
+        "ゲン",
+        "ダン",
+        "シン"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "シン is the onyomi of 信. The kunyomi is しん*じる."
+      },
+      "image": "img/believe.png",
+      "number": 11,
+      "prompt": "What is the onyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": {
+        "index": 0,
+        "text": "カ is the onyomi of 化. The kunyomi is ば*ける."
+      },
+      "image": "img/transform.png",
+      "number": 12,
+      "prompt": "What is the onyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "コ",
+        "カ",
+        "ク",
+        "シン"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "カ is the onyomi of flower. The kunyomi is はな."
+      },
+      "image": "img/flower.png",
+      "number": 13,
+      "prompt": "What is the onyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "エイ",
+        "シ",
+        "ク",
+        "コ"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "ク is the onyomi of 苦. The kunyomi is にが*い and くる*しい."
+      },
+      "image": "img/suffer.png",
+      "number": 14,
+      "prompt": "What is the onyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "あ*わい",
+        "あ*かり, あか*るい",
+        "い*れる, はい*る",
+        "ほのお"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "い*れる is the kunyomi of 入. The onyomi is ニュウ."
+      },
+      "image": "img/put.png",
       "number": 15,
-      "prompt": "What is the kunyomi of a kanji old（古）is a part of?"
+      "prompt": "What is the kunyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "こおり",
+        "かわ",
+        "ふた",
+        "ひと"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "ひと is the kunyomi of 人. The onyomi is ニン and ジン."
+      },
+      "image": "img/person.png",
+      "number": 16,
+      "prompt": "What is the kunyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "なに",
+        "た",
+        "い",
+        "はな"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "なに is the kunyomi of 何. The onyomi is カ."
+      },
+      "image": "img/what.png",
+      "number": 17,
+      "prompt": "What is the kunyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "とな*える",
+        "しろ*い",
+        "ま*ぜる",
+        "しん*じる"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "しん*じる is the kunyomi of 信. The onyomi is シン."
+      },
+      "image": "img/believe.png",
+      "number": 18,
+      "prompt": "What is the kunyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "ば*ける",
+        "はたけ",
+        "みんな",
+        "うま*い"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "ば*ける is the kunyomi of 化. The onyomi is カ."
+      },
+      "image": "img/transform.png",
+      "number": 19,
+      "prompt": "What is the kunyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "こおり",
+        "はな",
+        "ほのお",
+        "まち"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "はな is the kunyomi of 花. The onyomi is カ."
+      },
+      "image": "img/flower.png",
+      "number": 20,
+      "prompt": "What is the kunyomi of the above kanji?"
+    },
+    {
+      "answers": [
+        "けい/はか*る",
+        "す*き",
+        "にが*い/くる*しい",
+        "はや*い"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "にが*い and くる*しい are the kunyomi of 苦. The onyomi is ク."
+      },
+      "image": "img/suffer.png",
+      "number": 21,
+      "prompt": "What is the kunyomi of the above kanji?"
     }
   ],
-  "title": "Kanji Quiz 10-6-2020",
+  "title": "Kanji Quiz 10-9-2020",
   "url": "http://google.com"
 }
