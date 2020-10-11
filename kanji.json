@@ -314,6 +314,126 @@
       "image": "img/suffer.png",
       "number": 21,
       "prompt": "What is the kunyomi of the above kanji? (Suffer)"
+    },
+    {
+      "answers": [
+        "Gallbladder",
+        "Stomach",
+        "Heart",
+        "Moon"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "胃 means stomach. The onyomi is イ."
+      },
+      "image": "img/stomach.png",
+      "number": 22,
+      "prompt": "What does this kanji mean?"
+    },
+    {
+      "answers": [
+        "Revise",
+        "Counter for pages",
+        "Streetlight",
+        "Neighborhood/Town"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "町 means neighborhood/town. The onyomi is チョウ, and the kunyomi is まち."
+      },
+      "image": "img/town.png",
+      "number": 23,
+      "prompt": "What does this kanji mean?"
+    },
+    {
+      "answers": [
+        "Cultivated field",
+        "Rice field",
+        "Town",
+        "Faint"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "畑 means cultivated field. The kunyomi is はたけ."
+      },
+      "image": "img/cultivatedfield.png",
+      "number": 24,
+      "prompt": "What does this kanji mean?"
+    },
+    {
+      "answers": [
+        "Cultivated field",
+        "Possible",
+        "Rice field",
+        "Stream"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "田 means rice field. The kunyomi is た, and the onyomi is デン."
+      },
+      "image": "img/ricefield.png",
+      "number": 25,
+      "prompt": "What does this kanji mean?"
+    },
+    {
+      "answers": [
+        "こ",
+        "あぶら",
+        "した",
+        "まち"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "The kunyomi of 町 is まち. The onyomi is チョウ."
+      },
+      "image": "img/town.png",
+      "number": 26,
+      "prompt": "What is the kunyomi?"
+    },
+    {
+      "answers": [
+        "コウ",
+        "シ",
+        "イ",
+        "エイ"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "The onyomi of 胃 (stomach) is イ."
+      },
+      "image": "img/stomach.png",
+      "number": 27,
+      "prompt": "What is the onyomi of 胃 (stomach)?"
+    },
+    {
+      "answers": [
+        "みずうみ",
+        "すいか",
+        "あぶら",
+        "はたけ"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "はたけ is the kunyomi of 畑 (cultivated field)."
+      },
+      "image": "img/cultivatedfield.png",
+      "number": 28,
+      "prompt": "What is the kunyomi of 畑 (Cultivated field)?"
+    },
+    {
+      "answers": [
+        "した",
+        "だんな",
+        "た",
+        "こ"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "た is the kunyomi of 田 (rice field). The onyomi is デン."
+      },
+      "image": "img/ricefield.png",
+      "number": 29,
+      "prompt": "What is the kunyomi of 田 (rice field)?"
     }
   ],
   "title": "Kanji Quiz 10-9-2020",
