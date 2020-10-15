@@ -434,6 +434,96 @@
       "image": "img/ricefield.png",
       "number": 29,
       "prompt": "What is the kunyomi of 田 (rice field)?"
+    },
+    {
+      "answers": [
+        "Transform",
+        "Grass",
+        "Early",
+        "Flower"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "草 means grass. The onyomi is ソウ. The kunyomi is くさ."
+      },
+      "image": "img/grass.png",
+      "number": 30,
+      "prompt": "What is this kanji?"
+    },
+    {
+      "answers": [
+        "つき",
+        "くさ",
+        "みず",
+        "かな*う"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "くさ is the kunyomi of 草 (grass). The onyomi is ソウ."
+      },
+      "image": "img/grass.png",
+      "number": 31,
+      "prompt": "What is the kunyomi of 草 (grass)?"
+    },
+    {
+      "answers": [
+        "コウ",
+        "ゲン",
+        "ジン",
+        "ソウ"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "ソウ is the onyomi of 草 (grass). The kunyomi is くさ."
+      },
+      "image": "img/grass.png",
+      "number": 32,
+      "prompt": "What is the onyomi of 草 (grass)?"
+    },
+    {
+      "answers": [
+        "Luggage",
+        "Animal fat",
+        "Possible",
+        "Flower"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "荷 means luggage. The onyomi is カ. The kunyomi is に."
+      },
+      "image": "img/luggage.png",
+      "number": 33,
+      "prompt": "What is this kanji?"
+    },
+    {
+      "answers": [
+        "はな",
+        "なに",
+        "に",
+        "くち"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "に is the kunyomi of 荷. The onyomi is カ."
+      },
+      "image": "img/luggage.png",
+      "number": 34,
+      "prompt": "What is the kunyomi of 荷 (luggage)?"
+    },
+    {
+      "answers": [
+        "ク",
+        "ゲン",
+        "カツ",
+        "カ"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "カ is the onyomi of 荷. The kunyomi is に."
+      },
+      "image": "img/luggage.png",
+      "number": 35,
+      "prompt": "What is the onyomi of 荷 (luggage)?"
     }
   ],
   "title": "Kanji Quiz 10-9-2020",
