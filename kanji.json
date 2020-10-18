@@ -2,440 +2,276 @@
   "questions": [
     {
       "answers": [
-        "Possible",
-        "Flower",
-        "Put/Go in",
-        "Person"
+        "person",
+        "neighborhood",
+        "meat",
+        "the inside"
       ],
       "correct": {
-        "index": 2,
-        "text": "入 means put/go in. The onyomi is ニュウ, and the kunyomi are はい*る and い*れる."
+        "index": 3,
+        "text": "内 means the inside. The onyomi is ナイ and the kunyomi is うち."
       },
-      "image": "img/put.png",
+      "image": "img/inside.png",
       "number": 1,
-      "prompt": "What is this kanji?"
+      "prompt": "What does the kanji 内 mean?"
     },
     {
       "answers": [
-        "Fire",
-        "Moon",
-        "Put/go in",
-        "Person"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "人 means person. The onyomi is ニン and ジン. The kunyomi is ひと. "
-      },
-      "image": "img/person.png",
-      "number": 2,
-      "prompt": "What is this kanji?"
-    },
-    {
-      "answers": [
-        "Stream",
-        "What",
-        "Possible",
-        "Faint/pale"
-      ],
-      "correct": {
-        "index": 1,
-        "text": "何 means what. The onyomi is カ. The kunyomi is なに."
-      },
-      "image": "img/what.png",
-      "number": 3,
-      "prompt": "What is this kanji?"
-    },
-    {
-      "answers": [
-        "Believe",
-        "Say",
-        "What",
-        "Cultivated field"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "信 means believe. The onyomi is シン. The kunyomi is しん*じる."
-      },
-      "image": "img/believe.png",
-      "number": 4,
-      "prompt": "What is this kanji?"
-    },
-    {
-      "answers": [
-        "Seven",
-        "Transform",
-        "Counter for pages",
-        "Person"
-      ],
-      "correct": {
-        "index": 1,
-        "text": "化 means transform. The onyomi is カ. The kunyomi is ば*ける."
-      },
-      "image": "img/transform.png",
-      "number": 5,
-      "prompt": "What is this kanji?"
-    },
-    {
-      "answers": [
-        "Suffer",
-        "Early",
-        "Stomach",
-        "Flower"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "花 means flower. The onyomi is カ. The kunyomi is はな."
-      },
-      "image": "img/flower.png",
-      "number": 6,
-      "prompt": "What is this kanji?"
-    },
-    {
-      "answers": [
+        "Meat",
+        "Person",
         "Sun",
-        "Flower",
+        "Flame"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "肉 means meat. The onyomi is ニク and the kunyomi is にく."
+      },
+      "image": "img/meat.png",
+      "number": 2,
+      "prompt": "What does the kanji 肉 mean?"
+    },
+    {
+      "answers": [
         "Moon",
-        "Suffer"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "苦 means suffer. The onyomi is ク. The kunyomi is にが*い and くる*しい."
-      },
-      "image": "img/suffer.png",
-      "number": 7,
-      "prompt": "What is this kanji?"
-    },
-    {
-      "answers": [
-        "シ",
-        "ク",
-        "ニュウ",
-        "シン"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "ニュウ is the onyomi of 入 (put/go in). The kunyomi is はい*る and い*れる."
-      },
-      "image": "img/put.png",
-      "number": 8,
-      "prompt": "What is the onyomi of the above kanji? (Put/go in)"
-    },
-    {
-      "answers": [
-        "カ/ゲ",
-        "ニチ/ジツ",
-        "ヒョウ/スイ",
-        "ニン/ジン"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "ニン and ジン are the onyomi for 人 (person). The kunyomi is ひと."
-      },
-      "image": "img/person.png",
-      "number": 9,
-      "prompt": "What is the onyomi of the above kanji? (Person)"
-    },
-    {
-      "answers": [
-        "カ",
-        "ヒ",
-        "コ",
-        "ク"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "カ is the onyomi of 何 (what). The kunyomi is なに."
-      },
-      "image": "img/what.png",
-      "number": 10,
-      "prompt": "What is the onyomi of the above kanji? (What)"
-    },
-    {
-      "answers": [
-        "コン",
-        "ゲン",
-        "ダン",
-        "シン"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "シン is the onyomi of 信 (believe). The kunyomi is しん*じる."
-      },
-      "image": "img/believe.png",
-      "number": 11,
-      "prompt": "What is the onyomi of the above kanji? (Believe)"
-    },
-    {
-      "answers": [
-        "カ",
-        "キュウ",
-        "コウ",
-        "シン"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "カ is the onyomi of 化 (transform). The kunyomi is ば*ける."
-      },
-      "image": "img/transform.png",
-      "number": 12,
-      "prompt": "What is the onyomi of the above kanji? (Transform)"
-    },
-    {
-      "answers": [
-        "コ",
-        "カ",
-        "ク",
-        "シン"
+        "Yen",
+        "Neighborhood",
+        "Streetlight"
       ],
       "correct": {
         "index": 1,
-        "text": "カ is the onyomi of 花 (flower). The kunyomi is はな."
+        "text": "円 means yen. The onyomi is エン and the kunyomi is えん. "
       },
-      "image": "img/flower.png",
-      "number": 13,
-      "prompt": "What is the onyomi of the above kanji? (Flower)"
+      "image": "img/yen.png",
+      "number": 3,
+      "prompt": "What does the kanji 円 mean?"
     },
     {
       "answers": [
-        "エイ",
-        "シ",
-        "ク",
-        "コ"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "ク is the onyomi of 苦 (suffer). The kunyomi is にが*い and くる*しい."
-      },
-      "image": "img/suffer.png",
-      "number": 14,
-      "prompt": "What is the onyomi of the above kanji? (Suffer)"
-    },
-    {
-      "answers": [
-        "あ*わい",
-        "あ*かり, あか*るい",
-        "い*れる, はい*る",
-        "ほのお"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "い*れる is the kunyomi of 入 (put/go in). The onyomi is ニュウ."
-      },
-      "image": "img/put.png",
-      "number": 15,
-      "prompt": "What is the kunyomi of the above kanji? (Put/go in)"
-    },
-    {
-      "answers": [
-        "こおり",
-        "かわ",
-        "ふた",
-        "ひと"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "ひと is the kunyomi of 人 (person). The onyomi is ニン and ジン."
-      },
-      "image": "img/person.png",
-      "number": 16,
-      "prompt": "What is the kunyomi of the above kanji? (Person)"
-    },
-    {
-      "answers": [
-        "なに",
-        "た",
-        "い",
-        "はな"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "なに is the kunyomi of 何 (what). The onyomi is カ."
-      },
-      "image": "img/what.png",
-      "number": 17,
-      "prompt": "What is the kunyomi of the above kanji? (What)"
-    },
-    {
-      "answers": [
-        "とな*える",
-        "しろ*い",
-        "ま*ぜる",
-        "しん*じる"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "しん*じる is the kunyomi of 信 (believe). The onyomi is シン."
-      },
-      "image": "img/believe.png",
-      "number": 18,
-      "prompt": "What is the kunyomi of the above kanji? (Believe)"
-    },
-    {
-      "answers": [
-        "ば*ける",
-        "はたけ",
-        "みんな",
-        "うま*い"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "ば*ける is the kunyomi of 化 (transform). The onyomi is カ."
-      },
-      "image": "img/transform.png",
-      "number": 19,
-      "prompt": "What is the kunyomi of the above kanji? (Transform)"
-    },
-    {
-      "answers": [
-        "こおり",
-        "はな",
-        "ほのお",
-        "まち"
-      ],
-      "correct": {
-        "index": 1,
-        "text": "はな is the kunyomi of 花 (flower). The onyomi is カ."
-      },
-      "image": "img/flower.png",
-      "number": 20,
-      "prompt": "What is the kunyomi of the above kanji? (Flower)"
-    },
-    {
-      "answers": [
-        "けい/はか*る",
-        "す*き",
-        "にが*い/くる*しい",
-        "はや*い"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "にが*い and くる*しい are the kunyomi of 苦 (suffer). The onyomi is ク."
-      },
-      "image": "img/suffer.png",
-      "number": 21,
-      "prompt": "What is the kunyomi of the above kanji? (Suffer)"
-    },
-    {
-      "answers": [
-        "Gallbladder",
         "Stomach",
-        "Heart",
-        "Moon"
+        "Lung",
+        "City",
+        "Woman"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "市 means city. The onyomi is シ and the kunyomi is いち."
+      },
+      "image": "img/city.png",
+      "number": 4,
+      "prompt": "What does the kanji 市 mean?"
+    },
+    {
+      "answers": [
+        "Elder sister",
+        "Lung",
+        "Animal fat",
+        "Big lake"
       ],
       "correct": {
         "index": 1,
-        "text": "胃 means stomach. The onyomi is イ."
+        "text": "肺 means lung. The onyomi is ハイ and the kunyomi is はい."
       },
-      "image": "img/stomach.png",
-      "number": 22,
-      "prompt": "What does this kanji mean?"
+      "image": "img/lung.png",
+      "number": 5,
+      "prompt": "What does the kanji 肺 mean?"
     },
     {
       "answers": [
-        "Revise",
-        "Counter for pages",
-        "Streetlight",
-        "Neighborhood/Town"
+        "Like",
+        "Moon",
+        "Sun/day/Japan",
+        "Elder sister"
       ],
       "correct": {
         "index": 3,
-        "text": "町 means neighborhood/town. The onyomi is チョウ, and the kunyomi is まち."
+        "text": "姉 means elder sister. The onyomi is シ and the kunyomi is あね."
       },
-      "image": "img/town.png",
-      "number": 23,
-      "prompt": "What does this kanji mean?"
+      "image": "img/eldersister.png",
+      "number": 6,
+      "prompt": "What does the kanji 姉 mean?"
     },
     {
       "answers": [
-        "Cultivated field",
-        "Rice field",
-        "Town",
-        "Faint"
+        "ハイ",
+        "ナイ",
+        "ゲツ",
+        "シツ"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The onyomi of 内 (the inside) is ナイ. The kunyomi is うち."
+      },
+      "image": "img/inside.png",
+      "number": 7,
+      "prompt": "What is the onyomi of 内 (the inside)?"
+    },
+    {
+      "answers": [
+        "ニク",
+        "コウ",
+        "ソウ",
+        "チョウ"
       ],
       "correct": {
         "index": 0,
-        "text": "畑 means cultivated field. The kunyomi is はたけ."
+        "text": "The onyomi of 肉 (meat) is ニク. The kunyomi is にく."
       },
-      "image": "img/cultivatedfield.png",
-      "number": 24,
-      "prompt": "What does this kanji mean?"
+      "image": "img/meat.png",
+      "number": 8,
+      "prompt": "What is the onyomi of 肉 (meat)?"
     },
     {
       "answers": [
-        "Cultivated field",
-        "Possible",
-        "Rice field",
-        "Stream"
+        "スイ",
+        "ナイ",
+        "エイ",
+        "エン"
       ],
       "correct": {
-        "index": 2,
-        "text": "田 means rice field. The kunyomi is た, and the onyomi is デン."
+        "index": 3,
+        "text": "The onyomi of 円 (yen) is エン. The kunyomi is えん."
       },
-      "image": "img/ricefield.png",
-      "number": 25,
-      "prompt": "What does this kanji mean?"
+      "image": "img/yen.png",
+      "number": 9,
+      "prompt": "What is the onyomi of 円 (yen)?"
     },
     {
       "answers": [
-        "こ",
+        "エン",
+        "シ",
+        "トウ",
+        "ニク"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The onyomi of 市 (city) is シ. The kunyomi is いち."
+      },
+      "image": "img/city.png",
+      "number": 10,
+      "prompt": "What is the onyomi of 市 (city)?"
+    },
+    {
+      "answers": [
+        "ハイ",
+        "ナイ",
+        "スイ",
+        "ゲン"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "The onyomi of 肺 (lung) is ハイ. The kunyomi is はい."
+      },
+      "image": "img/lung.png",
+      "number": 11,
+      "prompt": "What is the onyomi of 肺 (lung)?"
+    },
+    {
+      "answers": [
+        "コ",
+        "シ",
+        "ゲツ",
+        "ハイ"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The onyomi of 姉 (elder sister) is シ. The kunyomi is あね."
+      },
+      "image": "img/eldersister.png",
+      "number": 12,
+      "prompt": "What is the onyomi of 姉 (elder sister)?"
+    },
+    {
+      "answers": [
+        "いち",
+        "うち",
+        "あね",
+        "あさ"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The kunyomi of 内 (the inside) is うち. The onyomi is ナイ."
+      },
+      "image": "img/inside.png",
+      "number": 7,
+      "prompt": "What is the kunyomi of 内 (the inside)?"
+    },
+    {
+      "answers": [
+        "にく",
+        "い*う",
         "あぶら",
-        "した",
+        "あね"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "The kunyomi of 肉 (meat) is にく. The onyomi is ニク."
+      },
+      "image": "img/meat.png",
+      "number": 8,
+      "prompt": "What is the kunyomi of 肉 (meat)?"
+    },
+    {
+      "answers": [
+        "い*れる",
+        "うち",
+        "みず",
+        "えん"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "The kunyomi of 円 (yen) is えん. The onyomi is エン."
+      },
+      "image": "img/yen.png",
+      "number": 9,
+      "prompt": "What is the kunyomi of 円 (yen)?"
+    },
+    {
+      "answers": [
+        "た",
+        "いち",
+        "つき",
+        "うち"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The kunyomi of 市 (city) is いち. The onyomi is シ."
+      },
+      "image": "img/city.png",
+      "number": 10,
+      "prompt": "What is the kunyomi of 市 (city)?"
+    },
+    {
+      "answers": [
+        "はい",
+        "す*き",
+        "あね",
         "まち"
       ],
       "correct": {
-        "index": 3,
-        "text": "The kunyomi of 町 is まち. The onyomi is チョウ."
+        "index": 0,
+        "text": "The kunyomi of 肺 (lung) is はい. The onyomi is ハイ."
       },
-      "image": "img/town.png",
-      "number": 26,
-      "prompt": "What is the kunyomi?"
+      "image": "img/lung.png",
+      "number": 11,
+      "prompt": "What is the kunyomi of 肺 (lung)?"
     },
     {
       "answers": [
-        "コウ",
-        "シ",
-        "イ",
-        "エイ"
+        "おんな",
+        "あね",
+        "こ",
+        "みずうみ"
       ],
       "correct": {
-        "index": 2,
-        "text": "The onyomi of 胃 (stomach) is イ."
+        "index": 1,
+        "text": "The kunyomi of 姉 (elder sister) is あね. The onyomi is シ."
       },
-      "image": "img/stomach.png",
-      "number": 27,
-      "prompt": "What is the onyomi of 胃 (stomach)?"
-    },
-    {
-      "answers": [
-        "みずうみ",
-        "すいか",
-        "あぶら",
-        "はたけ"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "はたけ is the kunyomi of 畑 (cultivated field)."
-      },
-      "image": "img/cultivatedfield.png",
-      "number": 28,
-      "prompt": "What is the kunyomi of 畑 (Cultivated field)?"
-    },
-    {
-      "answers": [
-        "した",
-        "だんな",
-        "た",
-        "こ"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "た is the kunyomi of 田 (rice field). The onyomi is デン."
-      },
-      "image": "img/ricefield.png",
-      "number": 29,
-      "prompt": "What is the kunyomi of 田 (rice field)?"
+      "image": "img/eldersister.png",
+      "number": 12,
+      "prompt": "What is the kunyomi of 姉 (elder sister)?"
     }
+
   ],
-  "title": "Kanji Quiz 10-9-2020",
+  "title": "Kanji Quiz 10-18-2020",
   "url": "http://google.com"
 }
