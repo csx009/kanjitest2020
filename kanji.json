@@ -80,13 +80,13 @@
         "Restaurant",
         "Dare",
         "Direction/Method/Person",
-        "Bring to a stop"
+        "Bring to a halt"
       ],
       "correct": {
         "index": 3,
-        "text": "停 is bring to a stop. The onyomi is テイ."
+        "text": "停 is bring to a halt. The onyomi is テイ."
       },
-      "image": "img/bringtoastop.png",
+      "image": "img/bringtoahalt.png",
       "number": 6,
       "prompt": "What is 停?"
     },
